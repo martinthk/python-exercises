@@ -17,3 +17,5 @@ Ex6: Counting vowels
 Ex7: Flipping coins 2 (unbiased coin flip)
 
 Ex8: Flipping coins 3 (n coin flips)
+
+Ex9: Flipping coins 4 (total number of Heads & Tails)
