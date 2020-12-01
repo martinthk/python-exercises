@@ -2,6 +2,8 @@
 A collection of Python exercises
 
 ## What is inlcuded?
+
+### Week 1
 Ex1: Root of the given quadratic equation 
 
 Ex2: Input 
@@ -14,6 +16,7 @@ Ex5: Flipping coins
 
 Ex6: Counting vowels
 
+### Week 2
 Ex7: Flipping coins 2 (unbiased coin flip)
 
 Ex8: Flipping coins 3 (n coin flips)
