@@ -13,3 +13,5 @@ Ex4: Finding the nth root
 Ex5: Flipping coins
 
 Ex6: Counting vowels
+
+Ex7: Flipping coins 2 (unbiased coin flip)
