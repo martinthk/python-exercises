@@ -24,3 +24,13 @@ Ex8: Flipping coins 3 (n coin flips)
 Ex9: Flipping coins 4 (total number of Heads & Tails)
 
 Ex10: Flipping coins 5 (ratio of Heads)
+
+Ex11: 3 sided coins
+
+Ex12: Collatz conjecture
+
+Ex13: Heron’s method of convergence
+
+Ex14: The MU Game
+
+Ex15: Perimeter & Area
